@@ -1,2 +1,2 @@
-# hd-koora.github.io
+# hdkoora.github.io
 GitHub Pages
